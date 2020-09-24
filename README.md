@@ -1,2 +1,2 @@
 # COVID-19-Canada-heatmaps
-[Intro.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf).
+[COVID-19 Cases](https://c19-sfu-econ.github.io/COVID-19-Canada-heatmaps/heatmap_cases.pdf).
