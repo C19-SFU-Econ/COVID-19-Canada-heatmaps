@@ -10,7 +10,7 @@
 ![age2](ONage.png?view=raw)
 ![age3](QCage.png?view=raw)
 ![age4](ABage.png?view=raw)
-##===============================================================================##
+==============================================================================================
 ## COVID-19-Canada-heatmaps - 2020
 ![2020 - COVID-19 Cases per 100K](2020cases_per100K.png?view=raw&s=200)
 ![age](2020BCage.png?view=raw)
