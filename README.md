@@ -13,6 +13,7 @@
 # ============================================
 ## COVID-19-Canada-heatmaps - 2020
 ![2020 - COVID-19 Cases per 100K](2020cases_per100K.png?view=raw&s=200)
+![2020 - Deaths](2020deaths.png?view=raw)
 ![age](2020BCage.png?view=raw)
 ![age2](2020ONage.png?view=raw)
 ![age3](2020QCage.png?view=raw)
