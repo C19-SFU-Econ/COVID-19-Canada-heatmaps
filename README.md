@@ -1,4 +1,4 @@
-# COVID-19-Canada-heatmaps
+# COVID-19-Canada-heatmaps 2021-22
 <sub>*These graphs are provided to the public for educational and academic research purposes. If you would like to use them, please cite as: Karaivanov, Lu and Shigeoka (2021), SFU Economics COVID-19 Research Team, github.com/C19-SFU-Econ.*</sub>
 
 ![COVID-19 Cases per 100K](cases_per100K.png?view=raw&s=200)
@@ -13,7 +13,7 @@
 
 ---
 
-## COVID-19-Canada-heatmaps - 2020
+## COVID-19-Canada-heatmaps 2020
 ![2020 - COVID-19 Cases per 100K](2020cases_per100K.png?view=raw&s=200)
 ![2020 - Deaths](2020deaths.png?view=raw)
 ![COVID-19 Positivity Rate](2020positivity_rate.png?view=raw)
